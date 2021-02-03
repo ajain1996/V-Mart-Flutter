@@ -1,0 +1,13 @@
+validator: (val) {
+	if (!regExp.hasMatch(val)) {
+		return 'Please enter valid mobile number';
+	} else {
+		return null;
+	}
+},
+//                             if (value.length == 0) {
+//       return 'Please enter mobile number';
+// }
+// else if (!regExp.hasMatch(value)) {
+//       return 'Please enter valid mobile number';
+// }

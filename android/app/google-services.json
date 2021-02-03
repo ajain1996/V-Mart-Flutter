@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461767461536",
+    "project_id": "vmart-90d08",
+    "storage_bucket": "vmart-90d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461767461536:android:9f88b2e560031b6fed97c5",
+        "android_client_info": {
+          "package_name": "com.example.v_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461767461536-negq7lc4ao2unvhle1qlm76hqkln2frn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14-AveexvZWXLq8CkAcqnrIiGfTMQPwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461767461536-negq7lc4ao2unvhle1qlm76hqkln2frn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
